@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jk-manga-read.vercel.app/sitemap.xml
